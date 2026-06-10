@@ -91,11 +91,11 @@ public class Srinath {
 
 <div align="center">
 
-<a href="https://github.com/srinathb">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinathb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Srinathb2006">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srinathb2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/srinathb">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Srinathb2006">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinathb2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -106,7 +106,7 @@ public class Srinath {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=srinathb&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Srinathb2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,7 +116,7 @@ public class Srinath {
 
 <div align="center">
 
-[![Srinath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinathb&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/srinathb)
+[![Srinath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srinathb2006&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Srinathb2006)
 
 </div>
 
@@ -126,7 +126,7 @@ public class Srinath {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srinathb&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srinathb2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -135,7 +135,7 @@ public class Srinath {
 ## 💼 Work & Projects Experience
 
 <details>
-<summary><b>🏥 PharmaCare – Full Stack Pharmacy Management System</b> &nbsp;|&nbsp; Team Project &nbsp;|&nbsp; Feb 2026 &nbsp;|&nbsp; Coimbatore, India</summary>
+<summary><b>🏥 <a href="https://pharmacare-iota.vercel.app/">PharmaCare</a> – Full Stack Pharmacy Management System</b> &nbsp;|&nbsp; Team Project &nbsp;|&nbsp; Feb 2026 &nbsp;|&nbsp; Coimbatore, India</summary>
 
 <br/>
 
@@ -163,7 +163,7 @@ public class Srinath {
 </details>
 
 <details>
-<summary><b>👗 Styvia Fashion Store – Responsive Web Application</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; Sep 2025 &nbsp;|&nbsp; Coimbatore, India</summary>
+<summary><b>👗 <a href="https://styvia-fashion-store.vercel.app/">Styvia Fashion Store</a> – Responsive Web Application</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; Sep 2025 &nbsp;|&nbsp; Coimbatore, India</summary>
 
 <br/>
 
@@ -183,9 +183,9 @@ public class Srinath {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**PharmaCare**](https://github.com/srinathb) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
+| [**PharmaCare**](https://pharmacare-iota.vercel.app/) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
 | **Vehicle Rental System** — Console App | Java · OOP · ArrayLists | Custom exception handling · Late return penalties · Modular design |
-| [**Styvia Fashion Store**](https://github.com/srinathb) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
+| [**Styvia Fashion Store**](https://styvia-fashion-store.vercel.app/) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
 
 </div>
 
@@ -235,8 +235,8 @@ public class Srinath {
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=srinathb&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/srinathb)
-[![GitHub followers](https://img.shields.io/github/followers/srinathb?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/srinathb)
+[![Profile Views](https://komarev.com/ghpvc/?username=Srinathb2006&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Srinathb2006)
+[![GitHub followers](https://img.shields.io/github/followers/Srinathb2006?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/Srinathb2006)
 
 **💬 "Build, Break, Learn, Repeat. 🚀"**
 
