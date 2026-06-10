@@ -18,18 +18,14 @@ public class Srinath {
     String name         = "Srinath B";
     String location     = "Coimbatore, India";
     String degree       = "B.Tech IT @ Karpagam College of Engineering (2027)";
-    String email        = "boopalansrinath16@gmail.com";
+    String email        = "srinathboopalan16@gmail.com";
 
     String[] stack = {
         "Java", "Spring Boot", "React.js",
         "MongoDB", "MySQL", "JavaScript"
     };
 
-    String[] currentlyLearning = {
-        "Microservices Architecture",
-        "System Design",
-        "Docker & Kubernetes"
-    };
+    
 
     String funFact = "I solved 1100+ problems on CodeChef!";
 
@@ -91,10 +87,10 @@ public class Srinath {
 
 <div align="center">
 
-<a href="https://github.com/srinathb">
+<a href="https://github.com/Srinathb2006">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinathb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/srinathb">
+<a href="https://github.com/Srinathb2006">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -183,9 +179,9 @@ public class Srinath {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**PharmaCare**](https://github.com/srinathb) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
+| [**PharmaCare**](https://github.com/Srinathb2006) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
 | **Vehicle Rental System** — Console App | Java · OOP · ArrayLists | Custom exception handling · Late return penalties · Modular design |
-| [**Styvia Fashion Store**](https://github.com/srinathb) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
+| [**Styvia Fashion Store**](https://github.com/Srinathb2006) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
 
 </div>
 
@@ -234,14 +230,14 @@ public class Srinath {
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=srinathb&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/srinathb)
-[![GitHub followers](https://img.shields.io/github/followers/srinathb?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/srinathb)
+[![Profile Views](https://komarev.com/ghpvc/?username=Srinathb2006&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Srinathb2006)
+[![GitHub followers](https://img.shields.io/github/followers/Srinathb2006?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/Srinathb2006)
 
 **💬 "Build, Break, Learn, Repeat. 🚀"**
 
 *Let's connect and build something amazing together!*
 
-[![Email](https://img.shields.io/badge/Email-boopalansrinath16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:boopalansrinath16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-srinathboopalan16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srinathboopalan16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srinath_B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1100%2B_Solved-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
