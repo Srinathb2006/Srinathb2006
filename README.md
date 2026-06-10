@@ -25,7 +25,11 @@ public class Srinath {
         "MongoDB", "MySQL", "JavaScript"
     };
 
-    
+    String[] currentlyLearning = {
+        "Advanced Java & Spring Boot",
+        "React.js Frontend Development",
+        "Full Stack Web Applications"
+    };
 
     String funFact = "I solved 1100+ problems on CodeChef!";
 
@@ -40,8 +44,8 @@ public class Srinath {
 - 🎓 Pursuing **B.Tech in Information Technology** at Karpagam College of Engineering (Anna University) — CGPA: **7.90/10**
 - 💼 Passionate about building **Full Stack Web Applications** with Java & React
 - 🧩 Strong foundation in **Data Structures & Algorithms** — 1100+ CodeChef problems solved
-- 🌐 Currently exploring **Microservices**, **Docker**, and **Cloud Deployment**
-- 📬 Reach me at **boopalansrinath16@gmail.com**
+- 🌱 Continuously improving my skills in **Java**, **Spring Boot**, **React.js**, and **Full Stack Development**
+- 📬 Reach me at **srinathboopalan16@gmail.com**
 
 ---
 
@@ -87,10 +91,10 @@ public class Srinath {
 
 <div align="center">
 
-<a href="https://github.com/Srinathb2006">
+<a href="https://github.com/srinathb">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinathb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/Srinathb2006">
+<a href="https://github.com/srinathb">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -179,9 +183,9 @@ public class Srinath {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**PharmaCare**](https://github.com/Srinathb2006) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
+| [**PharmaCare**](https://github.com/srinathb) — Pharmacy Management System | React · Spring Boot · MongoDB · JWT · Razorpay | Role-based auth · POS billing · Batch inventory · Expiry tracking |
 | **Vehicle Rental System** — Console App | Java · OOP · ArrayLists | Custom exception handling · Late return penalties · Modular design |
-| [**Styvia Fashion Store**](https://github.com/Srinathb2006) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
+| [**Styvia Fashion Store**](https://github.com/srinathb) — E-commerce Web App | HTML5 · CSS3 · JavaScript | Responsive UI · CSS Grid/Flexbox · Product search · 3-page nav |
 
 </div>
 
@@ -219,19 +223,20 @@ public class Srinath {
 ## 📚 Currently Learning
 
 ```
-🧱 Microservices     →  Spring Cloud · API Gateway · Service Discovery · Circuit Breakers
-🐳 DevOps            →  Docker · Kubernetes · CI/CD Pipelines
-☁️  Cloud            →  AWS Fundamentals · EC2 · S3 · Lambda
-🔐 Security          →  OAuth 2.0 · Spring Security · HTTPS
-📐 System Design     →  Scalability · Caching · Load Balancing · Database Sharding
+🧩 Data Structures & Algorithms
+☕ Advanced Java Programming
+🌱 Spring Boot & REST API Development
+⚛️ React.js Frontend Development
+🗄️ MongoDB & MySQL Database Design
+🚀 Full Stack Web Application Development
 ```
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Srinathb2006&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Srinathb2006)
-[![GitHub followers](https://img.shields.io/github/followers/Srinathb2006?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/Srinathb2006)
+[![Profile Views](https://komarev.com/ghpvc/?username=srinathb&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/srinathb)
+[![GitHub followers](https://img.shields.io/github/followers/srinathb?label=Followers&style=flat-square&color=bf91f3&logo=github)](https://github.com/srinathb)
 
 **💬 "Build, Break, Learn, Repeat. 🚀"**
 
@@ -240,7 +245,7 @@ public class Srinath {
 [![Email](https://img.shields.io/badge/Email-srinathboopalan16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srinathboopalan16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srinath_B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1100%2B_Solved-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/padmavathisrinath479/)
 
 </div>
 
