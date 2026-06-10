@@ -243,7 +243,7 @@ public class Srinath {
 *Let's connect and build something amazing together!*
 
 [![Email](https://img.shields.io/badge/Email-srinathboopalan16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srinathboopalan16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srinath_B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srinath_B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinath-b-b9300b23b/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1100%2B_Solved-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/srinathb)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/padmavathisrinath479/)
 
